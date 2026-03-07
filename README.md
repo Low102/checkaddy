@@ -2,6 +2,8 @@
 
 A simple terminal application for validating and inspecting public cryptocurrency addresses across multiple networks. It performs local format validation and optionally fetches basic address data from public blockchain APIs.
 
+![Demo](assets/demo.gif)
+
 ## Features
 
 - Local validation for several address formats
